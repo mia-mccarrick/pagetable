@@ -1,0 +1,16 @@
+The three licenses I reviewed were the GNU GPL, BSD, and Apache. The license I have chosen to use is the GPL. 
+
+GPL: The General Public License asserts that users of the software have the freedom to run the code, modify it, share it with others as well as obtain its source code. 
+However, users may not impose further restrictions on these rights. Also, licensee may offer their programs for free or for a fee. I chose this license because, as a student,
+it's important for me that any program I write that someone wants to use, remains public, and that as many people can learn and benefit as possible.
+
+BSD: The Berkeley Software Distribution is a permissive license which requires users to include the original copyright and attributions in all distributions
+of their software and not use the name of contributers/organizations in the copyright to endorse or promote products without permission. Notably, the source code 
+does not need to be distributed. I chose to not go with the permissive license because for my purposes, I have no interest in using my code commercially or keeping the 
+source code private.
+
+
+Apache: Apache is another permissive free license so users must include the same license in all unmodified parts including the copyright and attribution. Unlike 
+BSD, however, this license requires users to include a notification of any modifications made. I chose not to use this license for essentially the same reason as above. 
+If I am more focused on my own and others' learning, then I don't users to be able to hide their source code. 
+
