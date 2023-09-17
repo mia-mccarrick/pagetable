@@ -70,7 +70,6 @@ void page_allocate(size_t va){
 }
 
 int main() {
-    //finally finished, yay :)
 }
 
 
