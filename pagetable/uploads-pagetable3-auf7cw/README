@@ -1,9 +1,6 @@
 Project Title
 Pagetable Simulation
 
-Example Use Case:
-This program may be used to allocate a large space of, importantly, consecutive physical memory. The program will translate and allocate based on a given virtual address.
-
 Bugs & Limitations:
 None known.
 
@@ -12,12 +9,6 @@ Using config.h
     - config.h can be customized by editing the values of LEVELS and POBITS in the config.h file
     - the value of LEVELS will determine the number of page table levels with allowed values between 1 and 6
     - the value of POBITS will determine the number of bits in the page offset with allowed values between 4 and 18
-
-Known Limitations
-    - currently, this program is having memory/pointer issues and does seg fault
-
-Deallocation
-    I was unable to implement a deallocating interface without reworking my prior implementation. While I would be able to deallocate the data page, deallocating from the other pages would entail going through every entry and looking at the valid bits to then also deallocate those pages. This can not be done too easily. 
 
 Authors
 Mia McCarrick (auf7cw)
